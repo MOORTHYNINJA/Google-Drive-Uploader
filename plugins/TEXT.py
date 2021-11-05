@@ -26,7 +26,7 @@ HELP = """   <b>AUTHORISE BOT</b>
 <b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
-              500 KBps :(   ]
+              500000000 KBps :(   ]
             * Dropbox links 
             *  Mega links
             
@@ -64,7 +64,7 @@ UPDATE = """ <b> Update  on  27.07.2019</b>
 <b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
-              500 KBps :(   ]
+              500000000 KBps :(   ]
             * Dropbox links 
             *  Mega links (only files)
             
