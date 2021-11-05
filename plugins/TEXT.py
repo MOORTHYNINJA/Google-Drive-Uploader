@@ -59,7 +59,7 @@ MEGA = True
 
 UPDATE = """ <b> Update  on  27.07.2019</b>
             * MEGA LINK added
-            * Error Handling Improved
+            * Download Handling Improved
 
 <b> Links Supported By Bot</b>
             * Direct Links 
