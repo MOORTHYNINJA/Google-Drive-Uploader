@@ -5,8 +5,8 @@ drive_folder_name = "GDriveUploaderBot"
 
 
 # Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "bearyan8@yandex.com"
-MEGA_PASSWORD = "bearyan8@yandex.com"
+MEGA_EMAIL = "duraismoorthy@gmail.com"
+MEGA_PASSWORD = "q1w2e3r4t5"
 
 
 START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
@@ -39,7 +39,7 @@ OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Ex
 PROCESSING = "Processing Your Request ...!!"
 DOWN_TWO = True
 DOWNLOAD = "Downloading Started ..."
-DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Slow :("
+DOWN_MEGA = "Downloading Started... \n  Mega Links are \n Extremely Fast :("
 DOWN_COMPLETE = "Downloading complete !!"
 NOT_AUTH = "You Are Not Authorised To Using this Bot \n\n Please Authorise Me Using /auth  \n\n @aryanvikash"
 REVOKE_FAIL = "You Are Already UnAuthorised \n. Please Use /auth To Authorise \n\n report At @aryanvikash "
